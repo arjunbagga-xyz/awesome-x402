@@ -153,6 +153,7 @@ Real companies using x402 in production with proven scale and transaction volume
 
 - [GoldBean API](https://goldbean-api.xyz) — 146+ AI endpoints including Baidu OCR, Translation, TTS, LLM Chat with x402 micropayments on Base. From ### Production Success Metrics.01/call for premium AI. MCP server at [mcpize.com/mcp/goldbean](https://mcpize.com/mcp/goldbean). ([GitHub](https://github.com/wuzenghai616-lang/goldbean))
 
+- [Veles Finance Agent](https://veles-finance-gateway.fly.dev) - Production FastAPI + LangGraph financial analysis service with x402 paywall on Base. Provides SEC 10-K extraction, stock due diligence, and Kelly Criterion at $0.01-$0.05 USDC per request. ([Discovery](https://veles-finance-gateway.fly.dev/.well-known/x402))
 ### Production Success Metrics
 
 **Key Performance Indicators:**
