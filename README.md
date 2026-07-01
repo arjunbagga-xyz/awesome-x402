@@ -1033,6 +1033,7 @@ Comprehensive guides for migrating from traditional payment systems to x402.
 
 - [stripe-mcps](https://www.npmjs.com/package/stripe-mcps) - Trust verification + AML sanctions screening before Stripe/x402 payments. Agent identity (ECDSA), 75K+ sanctions entries (UK HMT + OFAC SDN), behavioural spend limits. OWASP MCP Security Cheat Sheet aligned. ([GitHub](https://github.com/razashariff/stripe-mcps))
 - [Crest Verify](https://verify.crestsystems.ai) - Verification tools for x402 endpoints, including conformance checks, service indexing, and signed trust receipts. ([npm](https://npmjs.com/package/@crestdeploymentsystems/verify) | [GitHub](https://github.com/andysalvo/crest))
+- [Warden](https://warden402.xyz) - Pre-execution security for agents on Base. Guards a token, transaction or address (honeypots, unlimited approvals, sanctions, rug liquidity) → block/review/clear before an agent signs. Free MCP: `npx -y warden402-mcp`. ([GitHub](https://github.com/sukrutkrdg/warden402.xyz))
 Security resources and best practices for x402 implementations.
 
 ### Smart Contract Audits
