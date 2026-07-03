@@ -254,6 +254,7 @@ Real companies using x402 in production with proven scale and transaction volume
 Major tech companies leveraging x402 in production include **Coinbase** (Native CDP integration, primary facilitator), **Cloudflare** (Edge payment processing infrastructure), **Google** (Agent-to-Agent A2A payment protocol development), **Visa** (Enterprise payment rail exploration), and **thirdweb** (AI agent transaction framework Nebula).
 
 - [b0x402](https://x402-cf-worker.mulberry-boar.workers.dev) - AI-powered crypto intelligence API: meme coin signals, DeFi sentiment, market equilibrium analysis, and wallet profiling on Base. Pay per call in USDC via x402. ($0.01-0.10 USDC/call)
+- [b0xM4](https://b0xm4-solana-pulse.mulberry-boar.workers.dev) - **Meridian-powered Solana DLMM screener.** Real-time TVL, volume, organic score, smart wallet tracking, token safety, fee/TVL yield ranking. 5 endpoints, $0.0001–0.0005 USDC/call. Payout 7P7w3M9yQs5P... on Solana.
 ## 🛠️ SDKs & Client Libraries
 
 Client libraries for making x402 payments.
