@@ -155,6 +155,7 @@ Real companies using x402 in production with proven scale and transaction volume
 - [GoldBean API](https://goldbean-api.xyz) — 146+ AI endpoints including Baidu OCR, Translation, TTS, LLM Chat with x402 micropayments on Base. From ### Production Success Metrics.01/call for premium AI. MCP server at [mcpize.com/mcp/goldbean](https://mcpize.com/mcp/goldbean). ([GitHub](https://github.com/wuzenghai616-lang/goldbean))
 - [ToolSnap MCP](https://mcp.toolsnap.app) — 28 context-efficient MCP tools for AI agents: web extraction, data processing, SEO, image processing. Flagship `fetch_extract` benchmarked at 98.1% token reduction (53,820 → 2,001 tokens, saving ~$0.156/call at Sonnet pricing). x402 v2 on Base with EIP-3009 `transferWithAuthorization`. Dual payment: pay-per-call $0.02 USDC or prepaid ($0.50 deposit → $0.01/call off-chain, no per-call gas, no 402 round-trip). 27 tools free, no API keys. Cloudflare Workers edge-native, 0ms cold start. Glama A rated. ([GitHub](https://github.com/icosaedro-git/toolsnap-mcp) | [Glama](https://glama.ai/mcp/connectors/app.toolsnap/toolsnap-mcp))
 
+- [Veles Finance Agent](https://veles-finance-gateway.fly.dev) - Production FastAPI + LangGraph financial analysis service with x402 paywall on Base. Provides SEC 10-K extraction, stock due diligence, and Kelly Criterion at $0.01-$0.05 USDC per request. ([Discovery](https://veles-finance-gateway.fly.dev/.well-known/x402))
 ### Production Success Metrics
 
 **Key Performance Indicators:**
